@@ -1,6 +1,8 @@
 # Svelte Runes Devtools
 Easily inspect runes using Redux Devtools
 
+![screenshot](./images/devtools.jpg)
+
 ## Installation
 ```bash
 npm install -D svelte-runes-devtools
